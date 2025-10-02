@@ -1,4 +1,4 @@
-```
+```markdown
 # 👽 UFO 404 Error Page
 
 ![preview](./ufo.svg)
