@@ -53,5 +53,4 @@
 - **역할**: 클라우드 엔지니어 & 프론트엔드 학습자
 - **Contact**: katiekim412@gmail.com | http://www.linkedin.com/in/katiekim412
 
-
 ---
