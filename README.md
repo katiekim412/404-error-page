@@ -1,4 +1,3 @@
-```markdown
 # 👽 UFO 404 Error Page
 
 ![preview](./ufo.svg)
@@ -19,15 +18,14 @@
 - **Vanilla JavaScript**: UFO 빔과 숫자 애니메이션의 순환 제어  
 
 ## 📂 프로젝트 구조
-```
-
 📦 UFO-404-Page
-┣ 📜 index.html        # 메인 페이지
-┣ 📜 index.css         # 스타일 및 애니메이션 정의
-┣ 📜 ufo.svg           # UFO 및 그래픽 요소
-┗ 📜 README.md         # 프로젝트 설명 문서
+┣ 📜 index.html # 메인 페이지
+┣ 📜 index.css # 스타일 및 애니메이션 정의
+┣ 📜 ufo.svg # UFO 및 그래픽 요소
+┗ 📜 README.md # 프로젝트 설명 문서
 
-```
+markdown
+코드 복사
 
 ## 📸 실행 화면
 > UFO가 "0"을 흡수했다가 다시 내보내는 애니메이션을 반복하며, 별과 행성이 주기적으로 반짝입니다.  
@@ -43,6 +41,8 @@
 - 🚀 애니메이션에 **사운드 효과** 추가  
 - 🌍 다국어 지원 메시지 삽입  
 - 🔗 메인 페이지로 이동할 수 있는 버튼 추가  
+
+---
 
 ### 👤 Author
 - **이름**: 김태영
