@@ -16,11 +16,11 @@
 - **Vanilla JavaScript**: UFO 빔과 숫자 애니메이션의 순환 제어  
 
 ## 📂 프로젝트 구조
-📦 UFO-404-Page
-┣ 📜 index.html # 메인 페이지
-┣ 📜 index.css # 스타일 및 애니메이션 정의
-┣ 📜 ufo.svg # UFO 및 그래픽 요소
-┗ 📜 README.md # 프로젝트 설명 문서
+📦 UFO-404-Page  
+┣ 📜 index.html # 메인 페이지  
+┣ 📜 index.css # 스타일 및 애니메이션 정의  
+┣ 📜 ufo.svg # UFO 및 그래픽 요소  
+┗ 📜 README.md # 프로젝트 설명 문서  
 
 markdown
 코드 복사
